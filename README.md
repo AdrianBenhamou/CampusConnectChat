@@ -1,1 +1,2 @@
-# CampusConnectChat
+# CampusConnect
+IOS Application
