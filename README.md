@@ -1,9 +1,9 @@
 # CampusConnect
 IOS Application
 Requirements:
-  Xcode V10.X.X
-  Swift 4
-
+  Xcode V10.2.1 or similar,
+  Swift 4,
+  Latest version of CocoaPods
 Instructions:
 1. Install from github
 2. Open Terminal
